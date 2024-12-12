@@ -108,6 +108,29 @@ carregado com as configurações corretas para devido funcionamento:
 
 
 
+conflito de endereços:
+garantir que os endereçõs de entrada e saida estejam coerrentes no tia e factory 
+
+![image](https://github.com/user-attachments/assets/03dd1f25-638f-4437-90e8-d99356e384c6)
+
+atençao ao offset 
+![image](https://github.com/user-attachments/assets/77514a76-b5d5-4b4c-b90d-df1a8f83f094)
+
+caso ainda se encontre com ploblemas de comunicação com o factory, " o sinal esteja "travando"
+
+ajustes estas configurações do plc
+
+![image](https://github.com/user-attachments/assets/01ef28da-a5f0-4b3a-bbb0-f9b741ef27e5)
+
+segue aqui abaixo um link de um forum para tentativa de resolver o problema:
+ LINKKKKKKK
+
+ 
+
+
+
+
+
 
 
 
