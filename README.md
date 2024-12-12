@@ -46,7 +46,7 @@ select ok:
 
 selecione "considere as trusted ..."
 
-![image](https://github.com/user-attachments/assets/70912cd3-84a3-4206-be09-bcc677990912)
+![image](https://github.com/user-attachments/assets/8c656650-9fdd-4a50-a373-03b1f1c1c6df)
 
 aguarde a copilação do progama :
 
