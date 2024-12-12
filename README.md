@@ -34,7 +34,38 @@ Habilite a comunicação PUT/GET para acesso remoto. Essa configuração permite
 
 ![image](https://github.com/user-attachments/assets/aa01e13f-a9ec-4619-8fed-9f0020582679)
 
-4. CARREGANDO AS CONFIGURAÇÕES PARA O plcsim
+4. EM PROGRAMS BLOCKS NO MAIN , CARREGAR A LIBRAIS  que permite a conecxaop do factory com o tia portal, pode encontrar esta briblioiteca no site oficial fo factory
+   -libries :
+
+![image](https://github.com/user-attachments/assets/28cdd9fc-b7c4-4c90-a969-e7fa37817626)
+
+abrir a biblioteca :
+
+![image](https://github.com/user-attachments/assets/58d42163-7210-40b2-a8ab-61887b65ee68)
+
+mude o tipo de arquivo que esta procurando para abrir 
+
+![image](https://github.com/user-attachments/assets/6709ffbc-6aed-4131-9b77-504371fc7870)
+
+procure este arquivo:
+
+![image](https://github.com/user-attachments/assets/d74999bb-774d-4107-a2bf-636ce64e6994)
+
+atualize para sua versao:
+
+![image](https://github.com/user-attachments/assets/f1ba27b7-52b8-4101-bc06-d3a20cf36e88)
+
+ arraste esta biblioteca para o o começo do ob main 
+ 
+ ![image](https://github.com/user-attachments/assets/32de729a-e9c3-4f32-a4bc-b81e52a73f9b)
+
+
+
+
+
+
+
+6. CARREGANDO AS CONFIGURAÇÕES PARA O plcsim
    start simulation:
    abrirá o simulador do plc
    
@@ -65,6 +96,12 @@ carregado com as configurações corretas para deviido funcionamento:
 
 ![image](https://github.com/user-attachments/assets/df737dcb-852e-4647-814a-df7088430d7c)
 
+
+no factory:
+ir em drivres
+![image](https://github.com/user-attachments/assets/4a845065-299b-45ac-9542-75b5c560639d)
+selecionar plcsim:
+![image](https://github.com/user-attachments/assets/79c758a3-083d-4948-9cbb-3a012c5a7510)
 
 
 
