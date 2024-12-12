@@ -34,6 +34,39 @@ Habilite a comunicação PUT/GET para acesso remoto. Essa configuração permite
 
 ![image](https://github.com/user-attachments/assets/aa01e13f-a9ec-4619-8fed-9f0020582679)
 
+4. CARREGANDO AS CONFIGURAÇÕES PARA O plcsim
+   start simulation:
+   abrirá o simulador do plc
+   
+![image](https://github.com/user-attachments/assets/3c483654-a695-4f90-bdb0-35947e9a318c)
+
+select ok:
+
+![image](https://github.com/user-attachments/assets/d47c7507-d68e-4e86-a3c8-e8fd4a187024)
+
+selecione "considere as trusted ..."
+
+![image](https://github.com/user-attachments/assets/70912cd3-84a3-4206-be09-bcc677990912)
+
+aguarde a copilação do progama :
+
+![image](https://github.com/user-attachments/assets/96ce74d1-c735-4e73-b45c-68cc16760235)
+
+careregue em load
+
+![image](https://github.com/user-attachments/assets/13baa209-5892-4fc2-86d5-68ecbd947d9c)
+
+startmodule:
+
+![image](https://github.com/user-attachments/assets/1d6d2a84-4a39-4e9c-a3b6-523509cfa523)
+
+o plcsim estara pronto para simulação 
+carregado com as configurações corretas para deviido funcionamento:
+
+![image](https://github.com/user-attachments/assets/df737dcb-852e-4647-814a-df7088430d7c)
+
+
+
 
 
 
