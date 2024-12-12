@@ -59,54 +59,49 @@ atualize para sua versao:
  
  ![image](https://github.com/user-attachments/assets/32de729a-e9c3-4f32-a4bc-b81e52a73f9b)
 
-
-
-
-
-
-
 6. CARREGANDO AS CONFIGURAÇÕES PARA O plcsim
    start simulation:
    abrirá o simulador do plc
    
 ![image](https://github.com/user-attachments/assets/3c483654-a695-4f90-bdb0-35947e9a318c)
 
-select ok:
+- select ok:
 
 ![image](https://github.com/user-attachments/assets/d47c7507-d68e-4e86-a3c8-e8fd4a187024)
 
-selecione "considere as trusted ..."
+- selecione "considere as trusted ..."
 
 ![image](https://github.com/user-attachments/assets/8c656650-9fdd-4a50-a373-03b1f1c1c6df)
 
-aguarde a copilação do progama :
+- aguarde a copilação do progama :
 
 ![image](https://github.com/user-attachments/assets/96ce74d1-c735-4e73-b45c-68cc16760235)
 
-careregue em load
+- careregue em load
 
 ![image](https://github.com/user-attachments/assets/13baa209-5892-4fc2-86d5-68ecbd947d9c)
 
-startmodule:
+- start module:
 
 ![image](https://github.com/user-attachments/assets/1d6d2a84-4a39-4e9c-a3b6-523509cfa523)
 
-o plcsim estara pronto para simulação 
-carregado com as configurações corretas para deviido funcionamento:
+o plcsim estará pronto para simulação 
+carregado com as configurações corretas para devido funcionamento:
 
 ![image](https://github.com/user-attachments/assets/df737dcb-852e-4647-814a-df7088430d7c)
 
 
-no factory:
-ir em drivres
+### Factory.io:
+
+- ir em drivres
 
 ![image](https://github.com/user-attachments/assets/4a845065-299b-45ac-9542-75b5c560639d)
 
-selecionar plcsim:
+- selecionar plcsim:
 
 ![image](https://github.com/user-attachments/assets/79c758a3-083d-4948-9cbb-3a012c5a7510)
 
-qwuando estiver com o "check verde" estará conectado
+- Quando estiver com o "check verde" estará conectado
 
 ![image](https://github.com/user-attachments/assets/eb7c6970-b14f-415a-9864-cda06297494a)
 
