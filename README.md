@@ -99,9 +99,17 @@ carregado com as configurações corretas para deviido funcionamento:
 
 no factory:
 ir em drivres
+
 ![image](https://github.com/user-attachments/assets/4a845065-299b-45ac-9542-75b5c560639d)
+
 selecionar plcsim:
+
 ![image](https://github.com/user-attachments/assets/79c758a3-083d-4948-9cbb-3a012c5a7510)
+
+qwuando estiver com o "check verde" estará conectado
+
+![image](https://github.com/user-attachments/assets/eb7c6970-b14f-415a-9864-cda06297494a)
+
 
 
 
